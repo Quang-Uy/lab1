@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243511654971",
+    "project_id": "lab1-c0d22",
+    "storage_bucket": "lab1-c0d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243511654971:android:78206f6973b4b6f4923a1e",
+        "android_client_info": {
+          "package_name": "fpoly.edu.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCIEyVZgjBGdejhQ2Hh7yO_m8VjIA7nds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
